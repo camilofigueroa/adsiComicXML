@@ -39,6 +39,8 @@ http://www.crivera.com.co/SENA/muffag/pruebas/leon/comic_contratos_informaticos/
 evolucion_tecnologica_informatica
 http://www.crivera.com.co/SENA/muffag/pruebas/leon/comic_evolucion_tecnologica_informatica/index.html
 
+Oscar Bocanegra 3.8 no enfatisa en la explicación del tema.
+
 comic_referentes_informaticos
 http://www.crivera.com.co/SENA/muffag/pruebas/leon/comic_referentes_informaticos/index.html
 
